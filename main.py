@@ -1,6 +1,3 @@
-# def set_numpy_decimal_places(places, width=0):
-#     return '{0:' + str(width) + '.' + str(places) + 'f}'
-
 n = eval(input("Number of iterations: "))
 
 pi = 3
